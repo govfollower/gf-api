@@ -11,17 +11,70 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20140707111715) do
+ActiveRecord::Schema.define(version: 20170330221055) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
-  create_table "widgets", force: true do |t|
-    t.string   "name"
-    t.text     "description"
-    t.integer  "stock"
-    t.datetime "created_at"
-    t.datetime "updated_at"
+  create_table "districts", force: :cascade do |t|
+    t.integer  "state_id"
+    t.integer  "district_number"
+    t.datetime "created_at",      null: false
+    t.datetime "updated_at",      null: false
   end
+
+  add_index "districts", ["state_id"], name: "index_districts_on_state_id", using: :btree
+
+  create_table "house_reps", force: :cascade do |t|
+    t.integer  "district_id"
+    t.string   "first_name"
+    t.string   "middle_name"
+    t.string   "last_name"
+    t.string   "party"
+    t.date     "first_elected_date"
+    t.date     "term_start_date"
+    t.date     "term_end_date"
+    t.integer  "terms_served"
+    t.date     "dob"
+    t.string   "gender"
+    t.datetime "created_at",         null: false
+    t.datetime "updated_at",         null: false
+  end
+
+  add_index "house_reps", ["district_id"], name: "index_house_reps_on_district_id", using: :btree
+
+  create_table "senate_reps", force: :cascade do |t|
+    t.integer  "state_id"
+    t.string   "first_name"
+    t.string   "middle_name"
+    t.string   "last_name"
+    t.string   "party"
+    t.date     "first_elected_date"
+    t.date     "term_start_date"
+    t.date     "term_end_date"
+    t.integer  "terms_served"
+    t.date     "dob"
+    t.string   "gender"
+    t.datetime "created_at",         null: false
+    t.datetime "updated_at",         null: false
+  end
+
+  add_index "senate_reps", ["state_id"], name: "index_senate_reps_on_state_id", using: :btree
+
+  create_table "states", force: :cascade do |t|
+    t.string   "state_name"
+    t.string   "state_abbr"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "zipcodes", force: :cascade do |t|
+    t.integer  "district_id"
+    t.string   "zipcode_value"
+    t.datetime "created_at",    null: false
+    t.datetime "updated_at",    null: false
+  end
+
+  add_index "zipcodes", ["district_id"], name: "index_zipcodes_on_district_id", using: :btree
 
 end

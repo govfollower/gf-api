@@ -56,4 +56,14 @@ Rails.application.routes.draw do
   #     # (app/controllers/admin/products_controller.rb)
   #     resources :products
   #   end
+
+  constraints :subdomain => "api" do
+    scope :module => "api", :as => "api" do
+      namespace :v1 do
+        resources :zipcodes
+        resources :districts
+      end
+    end
+  end
+
 end
