@@ -13,6 +13,11 @@ class CreateSenateReps < ActiveRecord::Migration
       t.integer :terms_served
       t.date :dob
       t.string :gender
+      t.string :phone
+      t.string :website_url
+      t.string :twitter_account
+      t.string :facebook_account
+      t.string :propublica_id
 
       t.timestamps null: false
     end

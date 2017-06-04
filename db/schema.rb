@@ -37,6 +37,11 @@ ActiveRecord::Schema.define(version: 20170330221055) do
     t.integer  "terms_served"
     t.date     "dob"
     t.string   "gender"
+    t.string   "phone"
+    t.string   "website_url"
+    t.string   "twitter_account"
+    t.string   "facebook_account"
+    t.string   "propublica_id"
     t.datetime "created_at",         null: false
     t.datetime "updated_at",         null: false
   end
@@ -55,6 +60,11 @@ ActiveRecord::Schema.define(version: 20170330221055) do
     t.integer  "terms_served"
     t.date     "dob"
     t.string   "gender"
+    t.string   "phone"
+    t.string   "website_url"
+    t.string   "twitter_account"
+    t.string   "facebook_account"
+    t.string   "propublica_id"
     t.datetime "created_at",         null: false
     t.datetime "updated_at",         null: false
   end
