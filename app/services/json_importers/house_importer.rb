@@ -15,7 +15,6 @@ module JsonImporters
         state = State.find_by(state_abbr: rep['state'])
         district = District.find_by(state_id: state.id, district_number: rep['district']) if state.present?
         if district
-          puts district
           district.create_house_rep!(
             first_name: rep['first_name'],
             middle_name: rep['middle_name'],
