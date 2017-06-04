@@ -28,7 +28,7 @@
                  "crp_id": "N00009888",
                  "google_entity_id": "/m/01rbs3",
                  "url": "https://www.alexander.senate.gov/public/index.cfm/home",
-                 "rss_url": "http://www.alexander.senate.gov/public/?a=RSS.Feed",
+                 "rss_url": "https://www.alexander.senate.gov/public/?a=RSS.Feed",
                  "contact_form": "http://www.alexander.senate.gov/public/index.cfm?p=Email",
                  "domain": "",
                  "in_office": "true",
@@ -36,8 +36,8 @@
                  "ideal_point": "",
                  "seniority": "15",
                  "next_election": "2020",
-                 "total_votes": "111",
-                 "missed_votes": "3",
+                 "total_votes": "137",
+                 "missed_votes": "4",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:tn",
                  "office": "455 Dirksen Senate Office Building",
@@ -47,8 +47,8 @@
                  "senate_class": "2",
                  "state_rank": "senior",
                  "lis_id": "S289"
-                 ,"missed_votes_pct": "2.70",
-                 "votes_with_party_pct": "99.07"
+                 ,"missed_votes_pct": "2.92",
+                 "votes_with_party_pct": "99.25"
                },
                            {
                  "id": "B000575",
@@ -76,7 +76,7 @@
                  "ideal_point": "",
                  "seniority": "7",
                  "next_election": "2022",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "2",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:mo",
@@ -87,8 +87,8 @@
                  "senate_class": "3",
                  "state_rank": "junior",
                  "lis_id": "S342"
-                 ,"missed_votes_pct": "1.80",
-                 "votes_with_party_pct": "99.08"
+                 ,"missed_votes_pct": "1.46",
+                 "votes_with_party_pct": "99.26"
                },
                            {
                  "id": "B000944",
@@ -108,7 +108,7 @@
                  "crp_id": "N00003535",
                  "google_entity_id": "/m/034s80",
                  "url": "https://www.brown.senate.gov",
-                 "rss_url": "http://www.brown.senate.gov/rss/feeds/?type=all&amp;",
+                 "rss_url": "https://www.brown.senate.gov/rss/feeds/?type=all&amp;",
                  "contact_form": "http://www.brown.senate.gov/contact/",
                  "domain": "www.brown.senate.gov",
                  "in_office": "true",
@@ -116,7 +116,7 @@
                  "ideal_point": "",
                  "seniority": "5",
                  "next_election": "2018",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:oh",
@@ -128,7 +128,7 @@
                  "state_rank": "senior",
                  "lis_id": "S307"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "95.50"
+                 "votes_with_party_pct": "94.89"
                },
                            {
                  "id": "B001135",
@@ -156,7 +156,7 @@
                  "ideal_point": "",
                  "seniority": "13",
                  "next_election": "2022",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:nc",
@@ -188,7 +188,7 @@
                  "crp_id": "N00004367",
                  "google_entity_id": "/m/024v02",
                  "url": "https://www.baldwin.senate.gov",
-                 "rss_url": "http://www.baldwin.senate.gov/rss/feeds/?type=all",
+                 "rss_url": "https://www.baldwin.senate.gov/rss/feeds/?type=all",
                  "contact_form": "https://www.baldwin.senate.gov/feedback",
                  "domain": "baldwin.senate.gov",
                  "in_office": "true",
@@ -196,7 +196,7 @@
                  "ideal_point": "",
                  "seniority": "5",
                  "next_election": "2018",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:wi",
@@ -208,7 +208,7 @@
                  "state_rank": "junior",
                  "lis_id": "S354"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "96.40"
+                 "votes_with_party_pct": "95.62"
                },
                            {
                  "id": "B001236",
@@ -228,15 +228,15 @@
                  "crp_id": "N00013873",
                  "google_entity_id": "/m/024s3v",
                  "url": "https://www.boozman.senate.gov/public/index.cfm/home",
-                 "rss_url": "http://www.boozman.senate.gov/public/index.cfm/rss/feed",
+                 "rss_url": "https://www.boozman.senate.gov/public/index.cfm/rss/feed",
                  "contact_form": "https://www.boozman.senate.gov/public/index.cfm/contact",
-                 "domain": "",
+                 "domain": "www.boozman.senate.gov",
                  "in_office": "true",
                  "dw_nominate": "",
                  "ideal_point": "",
                  "seniority": "7",
                  "next_election": "2022",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:ar",
@@ -248,7 +248,7 @@
                  "state_rank": "senior",
                  "lis_id": "S343"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "98.20"
+                 "votes_with_party_pct": "98.54"
                },
                            {
                  "id": "B001261",
@@ -268,7 +268,7 @@
                  "crp_id": "N00006236",
                  "google_entity_id": "/m/02rsm32",
                  "url": "http://www.barrasso.senate.gov",
-                 "rss_url": "",
+                 "rss_url": "https://www.barrasso.senate.gov/public/?a=rss.feed",
                  "contact_form": "https://www.barrasso.senate.gov/public/index.cfm/contact-form",
                  "domain": "www.barrasso.senate.gov",
                  "in_office": "true",
@@ -276,7 +276,7 @@
                  "ideal_point": "",
                  "seniority": "11",
                  "next_election": "2018",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "1",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:wy",
@@ -287,8 +287,8 @@
                  "senate_class": "1",
                  "state_rank": "junior",
                  "lis_id": "S317"
-                 ,"missed_votes_pct": "0.90",
-                 "votes_with_party_pct": "99.09"
+                 ,"missed_votes_pct": "0.73",
+                 "votes_with_party_pct": "99.26"
                },
                            {
                  "id": "B001267",
@@ -316,7 +316,7 @@
                  "ideal_point": "",
                  "seniority": "9",
                  "next_election": "2022",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:co",
@@ -328,7 +328,7 @@
                  "state_rank": "senior",
                  "lis_id": "S330"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "93.69"
+                 "votes_with_party_pct": "91.97"
                },
                            {
                  "id": "B001277",
@@ -356,7 +356,7 @@
                  "ideal_point": "",
                  "seniority": "7",
                  "next_election": "2022",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "1",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:ct",
@@ -367,8 +367,8 @@
                  "senate_class": "3",
                  "state_rank": "senior",
                  "lis_id": "S341"
-                 ,"missed_votes_pct": "0.90",
-                 "votes_with_party_pct": "95.45"
+                 ,"missed_votes_pct": "0.73",
+                 "votes_with_party_pct": "90.44"
                },
                            {
                  "id": "B001288",
@@ -388,7 +388,7 @@
                  "crp_id": "N00035267",
                  "google_entity_id": "/m/06p430",
                  "url": "http://www.booker.senate.gov",
-                 "rss_url": "http://www.booker.senate.gov/rss/",
+                 "rss_url": "https://www.booker.senate.gov/rss/",
                  "contact_form": "https://www.booker.senate.gov/?p=contact",
                  "domain": "www.booker.senate.gov/",
                  "in_office": "true",
@@ -396,7 +396,7 @@
                  "ideal_point": "",
                  "seniority": "5",
                  "next_election": "2020",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:nj",
@@ -408,7 +408,7 @@
                  "state_rank": "junior",
                  "lis_id": "S370"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "90.99"
+                 "votes_with_party_pct": "86.86"
                },
                            {
                  "id": "C000127",
@@ -436,8 +436,8 @@
                  "ideal_point": "",
                  "seniority": "17",
                  "next_election": "2018",
-                 "total_votes": "111",
-                 "missed_votes": "1",
+                 "total_votes": "137",
+                 "missed_votes": "2",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:wa",
                  "office": "511 Hart Senate Office Building",
@@ -447,8 +447,8 @@
                  "senate_class": "1",
                  "state_rank": "junior",
                  "lis_id": "S275"
-                 ,"missed_votes_pct": "0.90",
-                 "votes_with_party_pct": "99.09"
+                 ,"missed_votes_pct": "1.46",
+                 "votes_with_party_pct": "98.52"
                },
                            {
                  "id": "C000141",
@@ -476,7 +476,7 @@
                  "ideal_point": "",
                  "seniority": "11",
                  "next_election": "2018",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:md",
@@ -488,7 +488,7 @@
                  "state_rank": "senior",
                  "lis_id": "S308"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "97.30"
+                 "votes_with_party_pct": "97.08"
                },
                            {
                  "id": "C000174",
@@ -516,7 +516,7 @@
                  "ideal_point": "",
                  "seniority": "17",
                  "next_election": "2018",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "5",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:de",
@@ -527,8 +527,8 @@
                  "senate_class": "1",
                  "state_rank": "senior",
                  "lis_id": "S277"
-                 ,"missed_votes_pct": "4.50",
-                 "votes_with_party_pct": "95.28"
+                 ,"missed_votes_pct": "3.65",
+                 "votes_with_party_pct": "93.18"
                },
                            {
                  "id": "C000567",
@@ -548,15 +548,15 @@
                  "crp_id": "N00003328",
                  "google_entity_id": "/m/01fmcd",
                  "url": "http://www.cochran.senate.gov",
-                 "rss_url": "http://www.cochran.senate.gov/public/index.cfm/rss/taggedfeed?Type=news-releases&amp;region=&amp;issue=",
+                 "rss_url": "https://www.cochran.senate.gov/public/index.cfm/rss/taggedfeed?Type=news-releases&amp;region=&amp;issue=",
                  "contact_form": "https://www.cochran.senate.gov/public/index.cfm/email-me",
-                 "domain": "",
+                 "domain": "www.cochran.senate.gov",
                  "in_office": "true",
                  "dw_nominate": "",
                  "ideal_point": "",
                  "seniority": "39",
                  "next_election": "2020",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:ms",
@@ -568,7 +568,7 @@
                  "state_rank": "senior",
                  "lis_id": "S136"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "99.10"
+                 "votes_with_party_pct": "99.27"
                },
                            {
                  "id": "C000880",
@@ -596,7 +596,7 @@
                  "ideal_point": "",
                  "seniority": "19",
                  "next_election": "2022",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:id",
@@ -608,7 +608,7 @@
                  "state_rank": "senior",
                  "lis_id": "S266"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "99.10"
+                 "votes_with_party_pct": "98.54"
                },
                            {
                  "id": "C001035",
@@ -636,7 +636,7 @@
                  "ideal_point": "",
                  "seniority": "21",
                  "next_election": "2020",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:me",
@@ -648,7 +648,7 @@
                  "state_rank": "senior",
                  "lis_id": "S252"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "85.59"
+                 "votes_with_party_pct": "87.59"
                },
                            {
                  "id": "C001047",
@@ -676,8 +676,8 @@
                  "ideal_point": "",
                  "seniority": "3",
                  "next_election": "2020",
-                 "total_votes": "111",
-                 "missed_votes": "0",
+                 "total_votes": "137",
+                 "missed_votes": "2",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:wv",
                  "office": "172 Russell Senate Office Building",
@@ -687,8 +687,8 @@
                  "senate_class": "2",
                  "state_rank": "junior",
                  "lis_id": "S372"
-                 ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "98.20"
+                 ,"missed_votes_pct": "1.46",
+                 "votes_with_party_pct": "98.52"
                },
                            {
                  "id": "C001056",
@@ -716,7 +716,7 @@
                  "ideal_point": "",
                  "seniority": "15",
                  "next_election": "2020",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:tx",
@@ -728,7 +728,7 @@
                  "state_rank": "senior",
                  "lis_id": "S287"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "99.10"
+                 "votes_with_party_pct": "99.27"
                },
                            {
                  "id": "C001070",
@@ -756,7 +756,7 @@
                  "ideal_point": "",
                  "seniority": "11",
                  "next_election": "2018",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:pa",
@@ -768,7 +768,7 @@
                  "state_rank": "senior",
                  "lis_id": "S309"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "98.20"
+                 "votes_with_party_pct": "98.54"
                },
                            {
                  "id": "C001071",
@@ -796,7 +796,7 @@
                  "ideal_point": "",
                  "seniority": "11",
                  "next_election": "2018",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "2",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:tn",
@@ -807,8 +807,8 @@
                  "senate_class": "1",
                  "state_rank": "junior",
                  "lis_id": "S310"
-                 ,"missed_votes_pct": "1.80",
-                 "votes_with_party_pct": "99.08"
+                 ,"missed_votes_pct": "1.46",
+                 "votes_with_party_pct": "97.78"
                },
                            {
                  "id": "C001075",
@@ -836,7 +836,7 @@
                  "ideal_point": "",
                  "seniority": "3",
                  "next_election": "2020",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "1",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:la",
@@ -847,7 +847,7 @@
                  "senate_class": "2",
                  "state_rank": "senior",
                  "lis_id": "S373"
-                 ,"missed_votes_pct": "0.90",
+                 ,"missed_votes_pct": "0.73",
                  "votes_with_party_pct": "100.00"
                },
                            {
@@ -876,7 +876,7 @@
                  "ideal_point": "",
                  "seniority": "9",
                  "next_election": "2020",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "10",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:de",
@@ -887,8 +887,8 @@
                  "senate_class": "2",
                  "state_rank": "junior",
                  "lis_id": "S337"
-                 ,"missed_votes_pct": "9.01",
-                 "votes_with_party_pct": "94.06"
+                 ,"missed_votes_pct": "7.30",
+                 "votes_with_party_pct": "93.70"
                },
                            {
                  "id": "C001095",
@@ -916,7 +916,7 @@
                  "ideal_point": "",
                  "seniority": "3",
                  "next_election": "2020",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:ar",
@@ -928,7 +928,7 @@
                  "state_rank": "junior",
                  "lis_id": "S374"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "100.00"
+                 "votes_with_party_pct": "99.27"
                },
                            {
                  "id": "C001098",
@@ -956,7 +956,7 @@
                  "ideal_point": "",
                  "seniority": "5",
                  "next_election": "2018",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "3",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:tx",
@@ -967,8 +967,8 @@
                  "senate_class": "1",
                  "state_rank": "junior",
                  "lis_id": "S355"
-                 ,"missed_votes_pct": "2.70",
-                 "votes_with_party_pct": "97.22"
+                 ,"missed_votes_pct": "2.19",
+                 "votes_with_party_pct": "97.01"
                },
                            {
                  "id": "C001113",
@@ -996,7 +996,7 @@
                  "ideal_point": "",
                  "seniority": "1",
                  "next_election": "2022",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:nv",
@@ -1008,7 +1008,7 @@
                  "state_rank": "junior",
                  "lis_id": "S385"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "91.89"
+                 "votes_with_party_pct": "89.78"
                },
                            {
                  "id": "D000563",
@@ -1036,8 +1036,8 @@
                  "ideal_point": "",
                  "seniority": "21",
                  "next_election": "2020",
-                 "total_votes": "111",
-                 "missed_votes": "2",
+                 "total_votes": "137",
+                 "missed_votes": "7",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:il",
                  "office": "711 Hart Senate Office Building",
@@ -1047,8 +1047,8 @@
                  "senate_class": "2",
                  "state_rank": "senior",
                  "lis_id": "S253"
-                 ,"missed_votes_pct": "1.80",
-                 "votes_with_party_pct": "96.33"
+                 ,"missed_votes_pct": "5.11",
+                 "votes_with_party_pct": "96.92"
                },
                            {
                  "id": "D000607",
@@ -1068,7 +1068,7 @@
                  "crp_id": "N00026586",
                  "google_entity_id": "/m/0gmx64",
                  "url": "http://www.donnelly.senate.gov",
-                 "rss_url": "http://www.donnelly.senate.gov/rss/feeds/?press",
+                 "rss_url": "https://www.donnelly.senate.gov/rss/feeds/?press",
                  "contact_form": "https://www.donnelly.senate.gov/contact/email-joe",
                  "domain": "www.donnelly.senate.gov",
                  "in_office": "true",
@@ -1076,7 +1076,7 @@
                  "ideal_point": "",
                  "seniority": "5",
                  "next_election": "2018",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "3",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:in",
@@ -1087,8 +1087,8 @@
                  "senate_class": "1",
                  "state_rank": "senior",
                  "lis_id": "S356"
-                 ,"missed_votes_pct": "2.70",
-                 "votes_with_party_pct": "79.63"
+                 ,"missed_votes_pct": "2.19",
+                 "votes_with_party_pct": "82.09"
                },
                            {
                  "id": "D000618",
@@ -1116,7 +1116,7 @@
                  "ideal_point": "",
                  "seniority": "3",
                  "next_election": "2020",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:mt",
@@ -1128,7 +1128,7 @@
                  "state_rank": "junior",
                  "lis_id": "S375"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "99.10"
+                 "votes_with_party_pct": "98.54"
                },
                            {
                  "id": "D000622",
@@ -1148,15 +1148,15 @@
                  "crp_id": "N00027860",
                  "google_entity_id": "/m/09vqjr",
                  "url": "https://www.duckworth.senate.gov",
-                 "rss_url": "http://duckworth.house.gov/index.php/media-center/press-releases?format=feed&amp;type=rss",
+                 "rss_url": "",
                  "contact_form": "https://www.duckworth.senate.gov/content/contact-senator",
-                 "domain": "duckworth.house.gov",
+                 "domain": "www.duckworth.senate.gov",
                  "in_office": "true",
                  "dw_nominate": "",
                  "ideal_point": "",
                  "seniority": "1",
                  "next_election": "2022",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:il",
@@ -1168,7 +1168,7 @@
                  "state_rank": "junior",
                  "lis_id": "S386"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "94.59"
+                 "votes_with_party_pct": "91.97"
                },
                            {
                  "id": "E000285",
@@ -1188,15 +1188,15 @@
                  "crp_id": "N00006249",
                  "google_entity_id": "/m/021ph1",
                  "url": "http://www.enzi.senate.gov",
-                 "rss_url": "http://www.enzi.senate.gov/public/index.cfm/rss/feed",
+                 "rss_url": "https://www.enzi.senate.gov/public/?a=rss.feed",
                  "contact_form": "http://www.enzi.senate.gov/public/index.cfm/contact?p=e-mail-senator-enzi",
-                 "domain": "",
+                 "domain": "www.enzi.senate.gov",
                  "in_office": "true",
                  "dw_nominate": "",
                  "ideal_point": "",
                  "seniority": "21",
                  "next_election": "2020",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "1",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:wy",
@@ -1207,8 +1207,8 @@
                  "senate_class": "2",
                  "state_rank": "senior",
                  "lis_id": "S254"
-                 ,"missed_votes_pct": "0.90",
-                 "votes_with_party_pct": "99.09"
+                 ,"missed_votes_pct": "0.73",
+                 "votes_with_party_pct": "99.26"
                },
                            {
                  "id": "E000295",
@@ -1228,15 +1228,15 @@
                  "crp_id": "N00035483",
                  "google_entity_id": "/m/0gg4wkg",
                  "url": "http://www.ernst.senate.gov/public",
-                 "rss_url": "",
+                 "rss_url": "https://www.ernst.senate.gov/public/?a=rss.feed",
                  "contact_form": "https://www.ernst.senate.gov/public/index.cfm/contact",
-                 "domain": "",
+                 "domain": "www.ernst.senate.gov",
                  "in_office": "true",
                  "dw_nominate": "",
                  "ideal_point": "",
                  "seniority": "3",
                  "next_election": "2020",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:ia",
@@ -1248,7 +1248,7 @@
                  "state_rank": "junior",
                  "lis_id": "S376"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "100.00"
+                 "votes_with_party_pct": "99.27"
                },
                            {
                  "id": "F000062",
@@ -1268,7 +1268,7 @@
                  "crp_id": "N00007364",
                  "google_entity_id": "/m/01gqws",
                  "url": "http://www.feinstein.senate.gov",
-                 "rss_url": "http://www.feinstein.senate.gov/public/?a=rss.feed",
+                 "rss_url": "https://www.feinstein.senate.gov/public/?a=rss.feed",
                  "contact_form": "https://www.feinstein.senate.gov/public/index.cfm/e-mail-me",
                  "domain": "www.feinstein.senate.gov",
                  "in_office": "true",
@@ -1276,7 +1276,7 @@
                  "ideal_point": "",
                  "seniority": "25",
                  "next_election": "2018",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "24",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:ca",
@@ -1287,8 +1287,8 @@
                  "senate_class": "1",
                  "state_rank": "senior",
                  "lis_id": "S221"
-                 ,"missed_votes_pct": "21.62",
-                 "votes_with_party_pct": "95.40"
+                 ,"missed_votes_pct": "17.52",
+                 "votes_with_party_pct": "95.58"
                },
                            {
                  "id": "F000444",
@@ -1308,7 +1308,7 @@
                  "crp_id": "N00009573",
                  "google_entity_id": "/m/024p7j",
                  "url": "http://www.flake.senate.gov/public",
-                 "rss_url": "http://www.flake.senate.gov/public/?a=rss.feed",
+                 "rss_url": "https://www.flake.senate.gov/public/?a=rss.feed",
                  "contact_form": "https://www.flake.senate.gov/public/index.cfm/contact-jeff",
                  "domain": "flake.senate.gov",
                  "in_office": "true",
@@ -1316,8 +1316,8 @@
                  "ideal_point": "",
                  "seniority": "5",
                  "next_election": "2018",
-                 "total_votes": "111",
-                 "missed_votes": "2",
+                 "total_votes": "137",
+                 "missed_votes": "6",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:az",
                  "office": "413 Russell Senate Office Building",
@@ -1327,8 +1327,8 @@
                  "senate_class": "1",
                  "state_rank": "junior",
                  "lis_id": "S358"
-                 ,"missed_votes_pct": "1.80",
-                 "votes_with_party_pct": "98.17"
+                 ,"missed_votes_pct": "4.38",
+                 "votes_with_party_pct": "97.71"
                },
                            {
                  "id": "F000457",
@@ -1356,7 +1356,7 @@
                  "ideal_point": "",
                  "seniority": "9",
                  "next_election": "2020",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:mn",
@@ -1368,7 +1368,7 @@
                  "state_rank": "junior",
                  "lis_id": "S332"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "100.00"
+                 "votes_with_party_pct": "99.27"
                },
                            {
                  "id": "F000463",
@@ -1396,7 +1396,7 @@
                  "ideal_point": "",
                  "seniority": "5",
                  "next_election": "2018",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:ne",
@@ -1408,7 +1408,7 @@
                  "state_rank": "senior",
                  "lis_id": "S357"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "100.00"
+                 "votes_with_party_pct": "99.27"
                },
                            {
                  "id": "G000359",
@@ -1436,7 +1436,7 @@
                  "ideal_point": "",
                  "seniority": "15",
                  "next_election": "2020",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "3",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:sc",
@@ -1447,8 +1447,8 @@
                  "senate_class": "2",
                  "state_rank": "senior",
                  "lis_id": "S293"
-                 ,"missed_votes_pct": "2.70",
-                 "votes_with_party_pct": "100.00"
+                 ,"missed_votes_pct": "2.19",
+                 "votes_with_party_pct": "98.51"
                },
                            {
                  "id": "G000386",
@@ -1468,15 +1468,15 @@
                  "crp_id": "N00001758",
                  "google_entity_id": "/m/020ymy",
                  "url": "http://www.grassley.senate.gov",
-                 "rss_url": "http://www.grassley.senate.gov/?q=rss.xml",
+                 "rss_url": "https://www.grassley.senate.gov/?q=rss.xml",
                  "contact_form": "http://www.grassley.senate.gov/contact",
-                 "domain": "",
+                 "domain": "www.grassley.senate.gov",
                  "in_office": "true",
                  "dw_nominate": "",
                  "ideal_point": "",
                  "seniority": "37",
                  "next_election": "2022",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:ia",
@@ -1488,7 +1488,7 @@
                  "state_rank": "senior",
                  "lis_id": "S153"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "97.30"
+                 "votes_with_party_pct": "97.08"
                },
                            {
                  "id": "G000555",
@@ -1516,7 +1516,7 @@
                  "ideal_point": "",
                  "seniority": "9",
                  "next_election": "2018",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:ny",
@@ -1528,7 +1528,7 @@
                  "state_rank": "junior",
                  "lis_id": "S331"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "90.09"
+                 "votes_with_party_pct": "84.67"
                },
                            {
                  "id": "G000562",
@@ -1556,7 +1556,7 @@
                  "ideal_point": "",
                  "seniority": "3",
                  "next_election": "2020",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:co",
@@ -1568,7 +1568,7 @@
                  "state_rank": "junior",
                  "lis_id": "S377"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "100.00"
+                 "votes_with_party_pct": "99.27"
                },
                            {
                  "id": "H000338",
@@ -1588,7 +1588,7 @@
                  "crp_id": "N00009869",
                  "google_entity_id": "/m/016mj4",
                  "url": "http://www.hatch.senate.gov",
-                 "rss_url": "http://www.hatch.senate.gov/public/index.cfm/rss/feed",
+                 "rss_url": "https://www.hatch.senate.gov/public/index.cfm/rss/feed",
                  "contact_form": "http://www.hatch.senate.gov/public/index.cfm/contact?p=Email-Orrin",
                  "domain": "www.hatch.senate.gov",
                  "in_office": "true",
@@ -1596,7 +1596,7 @@
                  "ideal_point": "",
                  "seniority": "41",
                  "next_election": "2018",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:ut",
@@ -1608,7 +1608,7 @@
                  "state_rank": "senior",
                  "lis_id": "S118"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "98.20"
+                 "votes_with_party_pct": "98.54"
                },
                            {
                  "id": "H001041",
@@ -1636,8 +1636,8 @@
                  "ideal_point": "",
                  "seniority": "7",
                  "next_election": "2018",
-                 "total_votes": "111",
-                 "missed_votes": "0",
+                 "total_votes": "137",
+                 "missed_votes": "1",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:nv",
                  "office": "324 Hart Senate Office Building",
@@ -1647,8 +1647,8 @@
                  "senate_class": "1",
                  "state_rank": "senior",
                  "lis_id": "S352"
-                 ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "91.89"
+                 ,"missed_votes_pct": "0.73",
+                 "votes_with_party_pct": "92.65"
                },
                            {
                  "id": "H001042",
@@ -1676,8 +1676,8 @@
                  "ideal_point": "",
                  "seniority": "5",
                  "next_election": "2018",
-                 "total_votes": "111",
-                 "missed_votes": "0",
+                 "total_votes": "137",
+                 "missed_votes": "4",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:hi",
                  "office": "730 Hart Senate Office Building",
@@ -1687,8 +1687,8 @@
                  "senate_class": "1",
                  "state_rank": "junior",
                  "lis_id": "S361"
-                 ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "99.10"
+                 ,"missed_votes_pct": "2.92",
+                 "votes_with_party_pct": "97.74"
                },
                            {
                  "id": "H001046",
@@ -1716,7 +1716,7 @@
                  "ideal_point": "",
                  "seniority": "5",
                  "next_election": "2018",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "1",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:nm",
@@ -1727,8 +1727,8 @@
                  "senate_class": "1",
                  "state_rank": "junior",
                  "lis_id": "S359"
-                 ,"missed_votes_pct": "0.90",
-                 "votes_with_party_pct": "93.64"
+                 ,"missed_votes_pct": "0.73",
+                 "votes_with_party_pct": "94.12"
                },
                            {
                  "id": "H001061",
@@ -1756,7 +1756,7 @@
                  "ideal_point": "",
                  "seniority": "7",
                  "next_election": "2022",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:nd",
@@ -1788,7 +1788,7 @@
                  "crp_id": "N00033782",
                  "google_entity_id": "/m/02f501",
                  "url": "http://www.heitkamp.senate.gov/public",
-                 "rss_url": "",
+                 "rss_url": "https://www.heitkamp.senate.gov/public/?a=rss.feed",
                  "contact_form": "http://www.heitkamp.senate.gov/public/index.cfm/contact",
                  "domain": "www.heitkamp.senate.gov",
                  "in_office": "true",
@@ -1796,7 +1796,7 @@
                  "ideal_point": "",
                  "seniority": "5",
                  "next_election": "2018",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:nd",
@@ -1808,7 +1808,7 @@
                  "state_rank": "junior",
                  "lis_id": "S360"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "73.87"
+                 "votes_with_party_pct": "72.99"
                },
                            {
                  "id": "H001075",
@@ -1836,8 +1836,8 @@
                  "ideal_point": "",
                  "seniority": "1",
                  "next_election": "2022",
-                 "total_votes": "111",
-                 "missed_votes": "0",
+                 "total_votes": "137",
+                 "missed_votes": "1",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:ca",
                  "office": "112 Hart Senate Office Building",
@@ -1847,8 +1847,8 @@
                  "senate_class": "3",
                  "state_rank": "junior",
                  "lis_id": "S387"
-                 ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "94.59"
+                 ,"missed_votes_pct": "0.73",
+                 "votes_with_party_pct": "88.97"
                },
                            {
                  "id": "H001076",
@@ -1876,7 +1876,7 @@
                  "ideal_point": "",
                  "seniority": "1",
                  "next_election": "2022",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:nh",
@@ -1888,7 +1888,7 @@
                  "state_rank": "junior",
                  "lis_id": "S388"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "97.30"
+                 "votes_with_party_pct": "96.35"
                },
                            {
                  "id": "I000024",
@@ -1916,7 +1916,7 @@
                  "ideal_point": "",
                  "seniority": "25",
                  "next_election": "2020",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "1",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:ok",
@@ -1927,7 +1927,7 @@
                  "senate_class": "2",
                  "state_rank": "senior",
                  "lis_id": "S236"
-                 ,"missed_votes_pct": "0.90",
+                 ,"missed_votes_pct": "0.73",
                  "votes_with_party_pct": "100.00"
                },
                            {
@@ -1956,8 +1956,8 @@
                  "ideal_point": "",
                  "seniority": "13",
                  "next_election": "2022",
-                 "total_votes": "111",
-                 "missed_votes": "33",
+                 "total_votes": "137",
+                 "missed_votes": "44",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:ga",
                  "office": "131 Russell Senate Office Building",
@@ -1967,8 +1967,8 @@
                  "senate_class": "3",
                  "state_rank": "senior",
                  "lis_id": "S305"
-                 ,"missed_votes_pct": "29.73",
-                 "votes_with_party_pct": "98.72"
+                 ,"missed_votes_pct": "32.12",
+                 "votes_with_party_pct": "98.92"
                },
                            {
                  "id": "J000293",
@@ -1988,7 +1988,7 @@
                  "crp_id": "N00032546",
                  "google_entity_id": "/m/0cmdpzc",
                  "url": "https://www.ronjohnson.senate.gov",
-                 "rss_url": "",
+                 "rss_url": "https://www.ronjohnson.senate.gov/public/?a=rss.feed",
                  "contact_form": "https://www.ronjohnson.senate.gov/public/index.cfm/email-the-senator",
                  "domain": "www.ronjohnson.senate.gov",
                  "in_office": "true",
@@ -1996,7 +1996,7 @@
                  "ideal_point": "",
                  "seniority": "7",
                  "next_election": "2022",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:wi",
@@ -2036,7 +2036,7 @@
                  "ideal_point": "",
                  "seniority": "11",
                  "next_election": "2018",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:mn",
@@ -2048,7 +2048,7 @@
                  "state_rank": "senior",
                  "lis_id": "S311"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "97.30"
+                 "votes_with_party_pct": "97.81"
                },
                            {
                  "id": "K000383",
@@ -2076,7 +2076,7 @@
                  "ideal_point": "",
                  "seniority": "5",
                  "next_election": "2018",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:me",
@@ -2088,7 +2088,7 @@
                  "state_rank": "junior",
                  "lis_id": "S363"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "81.08"
+                 "votes_with_party_pct": "80.29"
                },
                            {
                  "id": "K000384",
@@ -2116,8 +2116,8 @@
                  "ideal_point": "",
                  "seniority": "5",
                  "next_election": "2018",
-                 "total_votes": "111",
-                 "missed_votes": "1",
+                 "total_votes": "137",
+                 "missed_votes": "3",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:va",
                  "office": "231 Russell Senate Office Building",
@@ -2127,8 +2127,8 @@
                  "senate_class": "1",
                  "state_rank": "junior",
                  "lis_id": "S362"
-                 ,"missed_votes_pct": "0.90",
-                 "votes_with_party_pct": "95.45"
+                 ,"missed_votes_pct": "2.19",
+                 "votes_with_party_pct": "94.78"
                },
                            {
                  "id": "K000393",
@@ -2156,7 +2156,7 @@
                  "ideal_point": "",
                  "seniority": "1",
                  "next_election": "2022",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:la",
@@ -2168,7 +2168,7 @@
                  "state_rank": "junior",
                  "lis_id": "S389"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "97.30"
+                 "votes_with_party_pct": "97.08"
                },
                            {
                  "id": "L000174",
@@ -2196,7 +2196,7 @@
                  "ideal_point": "",
                  "seniority": "43",
                  "next_election": "2022",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "1",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:vt",
@@ -2207,8 +2207,8 @@
                  "senate_class": "3",
                  "state_rank": "senior",
                  "lis_id": "S057"
-                 ,"missed_votes_pct": "0.90",
-                 "votes_with_party_pct": "99.09"
+                 ,"missed_votes_pct": "0.73",
+                 "votes_with_party_pct": "98.53"
                },
                            {
                  "id": "L000575",
@@ -2236,7 +2236,7 @@
                  "ideal_point": "",
                  "seniority": "3",
                  "next_election": "2022",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:ok",
@@ -2248,7 +2248,7 @@
                  "state_rank": "junior",
                  "lis_id": "S378"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "99.10"
+                 "votes_with_party_pct": "99.27"
                },
                            {
                  "id": "L000577",
@@ -2268,7 +2268,7 @@
                  "crp_id": "N00031696",
                  "google_entity_id": "/m/09v5q9x",
                  "url": "https://www.lee.senate.gov/public",
-                 "rss_url": "",
+                 "rss_url": "https://www.lee.senate.gov/public/?a=rss.feed",
                  "contact_form": "https://www.lee.senate.gov/public/index.cfm/contact",
                  "domain": "www.lee.senate.gov",
                  "in_office": "true",
@@ -2276,8 +2276,8 @@
                  "ideal_point": "",
                  "seniority": "7",
                  "next_election": "2022",
-                 "total_votes": "111",
-                 "missed_votes": "0",
+                 "total_votes": "137",
+                 "missed_votes": "1",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:ut",
                  "office": "361a Russell Senate Office Building",
@@ -2287,8 +2287,8 @@
                  "senate_class": "3",
                  "state_rank": "junior",
                  "lis_id": "S346"
-                 ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "95.50"
+                 ,"missed_votes_pct": "0.73",
+                 "votes_with_party_pct": "95.59"
                },
                            {
                  "id": "M000133",
@@ -2316,7 +2316,7 @@
                  "ideal_point": "",
                  "seniority": "5",
                  "next_election": "2020",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "1",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:ma",
@@ -2327,8 +2327,8 @@
                  "senate_class": "2",
                  "state_rank": "junior",
                  "lis_id": "S369"
-                 ,"missed_votes_pct": "0.90",
-                 "votes_with_party_pct": "94.55"
+                 ,"missed_votes_pct": "0.73",
+                 "votes_with_party_pct": "91.91"
                },
                            {
                  "id": "M000303",
@@ -2356,7 +2356,7 @@
                  "ideal_point": "",
                  "seniority": "31",
                  "next_election": "2022",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "3",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:az",
@@ -2367,8 +2367,8 @@
                  "senate_class": "3",
                  "state_rank": "senior",
                  "lis_id": "S197"
-                 ,"missed_votes_pct": "2.70",
-                 "votes_with_party_pct": "98.15"
+                 ,"missed_votes_pct": "2.19",
+                 "votes_with_party_pct": "96.27"
                },
                            {
                  "id": "M000355",
@@ -2388,15 +2388,15 @@
                  "crp_id": "N00003389",
                  "google_entity_id": "/m/01z6ls",
                  "url": "http://www.mcconnell.senate.gov",
-                 "rss_url": "http://www.mcconnell.senate.gov/public/?a=RSS.Feed",
+                 "rss_url": "https://www.mcconnell.senate.gov/public/?a=RSS.Feed",
                  "contact_form": "http://www.mcconnell.senate.gov/public/index.cfm?p=contact",
-                 "domain": "",
+                 "domain": "mcconnell.senate.gov",
                  "in_office": "true",
                  "dw_nominate": "",
                  "ideal_point": "",
                  "seniority": "33",
                  "next_election": "2020",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "1",
                  "ocd_id": "ocd-division/country:us/state:ky",
@@ -2408,7 +2408,7 @@
                  "state_rank": "senior",
                  "lis_id": "S174"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "97.30"
+                 "votes_with_party_pct": "97.81"
                },
                            {
                  "id": "M000639",
@@ -2436,7 +2436,7 @@
                  "ideal_point": "",
                  "seniority": "12",
                  "next_election": "2018",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:nj",
@@ -2448,7 +2448,7 @@
                  "state_rank": "senior",
                  "lis_id": "S306"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "93.69"
+                 "votes_with_party_pct": "92.70"
                },
                            {
                  "id": "M000934",
@@ -2468,7 +2468,7 @@
                  "crp_id": "N00005282",
                  "google_entity_id": "/m/024s8t",
                  "url": "http://www.moran.senate.gov",
-                 "rss_url": "http://www.moran.senate.gov/public/index.cfm/rss/feed",
+                 "rss_url": "https://www.moran.senate.gov/public/?a=rss.feed",
                  "contact_form": "https://www.moran.senate.gov/public/index.cfm/e-mail-jerry",
                  "domain": "www.moran.senate.gov/public/",
                  "in_office": "true",
@@ -2476,8 +2476,8 @@
                  "ideal_point": "",
                  "seniority": "7",
                  "next_election": "2022",
-                 "total_votes": "111",
-                 "missed_votes": "1",
+                 "total_votes": "137",
+                 "missed_votes": "3",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:ks",
                  "office": "521 Dirksen Senate Office Building",
@@ -2487,8 +2487,8 @@
                  "senate_class": "3",
                  "state_rank": "junior",
                  "lis_id": "S347"
-                 ,"missed_votes_pct": "0.90",
-                 "votes_with_party_pct": "99.09"
+                 ,"missed_votes_pct": "2.19",
+                 "votes_with_party_pct": "99.25"
                },
                            {
                  "id": "M001111",
@@ -2516,7 +2516,7 @@
                  "ideal_point": "",
                  "seniority": "25",
                  "next_election": "2022",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:wa",
@@ -2528,7 +2528,7 @@
                  "state_rank": "senior",
                  "lis_id": "S229"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "96.40"
+                 "votes_with_party_pct": "96.35"
                },
                            {
                  "id": "M001153",
@@ -2556,8 +2556,8 @@
                  "ideal_point": "",
                  "seniority": "17",
                  "next_election": "2022",
-                 "total_votes": "111",
-                 "missed_votes": "1",
+                 "total_votes": "137",
+                 "missed_votes": "5",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:ak",
                  "office": "522 Hart Senate Office Building",
@@ -2567,8 +2567,8 @@
                  "senate_class": "3",
                  "state_rank": "senior",
                  "lis_id": "S288"
-                 ,"missed_votes_pct": "0.90",
-                 "votes_with_party_pct": "95.45"
+                 ,"missed_votes_pct": "3.65",
+                 "votes_with_party_pct": "96.21"
                },
                            {
                  "id": "M001169",
@@ -2596,7 +2596,7 @@
                  "ideal_point": "",
                  "seniority": "5",
                  "next_election": "2018",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "2",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:ct",
@@ -2607,8 +2607,8 @@
                  "senate_class": "1",
                  "state_rank": "junior",
                  "lis_id": "S364"
-                 ,"missed_votes_pct": "1.80",
-                 "votes_with_party_pct": "95.41"
+                 ,"missed_votes_pct": "1.46",
+                 "votes_with_party_pct": "96.30"
                },
                            {
                  "id": "M001170",
@@ -2636,8 +2636,8 @@
                  "ideal_point": "",
                  "seniority": "11",
                  "next_election": "2018",
-                 "total_votes": "111",
-                 "missed_votes": "2",
+                 "total_votes": "137",
+                 "missed_votes": "3",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:mo",
                  "office": "503 Hart Senate Office Building",
@@ -2647,8 +2647,8 @@
                  "senate_class": "1",
                  "state_rank": "senior",
                  "lis_id": "S312"
-                 ,"missed_votes_pct": "1.80",
-                 "votes_with_party_pct": "89.91"
+                 ,"missed_votes_pct": "2.19",
+                 "votes_with_party_pct": "88.81"
                },
                            {
                  "id": "M001176",
@@ -2676,7 +2676,7 @@
                  "ideal_point": "",
                  "seniority": "9",
                  "next_election": "2020",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:or",
@@ -2688,7 +2688,7 @@
                  "state_rank": "junior",
                  "lis_id": "S322"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "91.89"
+                 "votes_with_party_pct": "91.24"
                },
                            {
                  "id": "M001183",
@@ -2708,7 +2708,7 @@
                  "crp_id": "N00032838",
                  "google_entity_id": "/m/04lc5t",
                  "url": "http://www.manchin.senate.gov/public",
-                 "rss_url": "http://www.manchin.senate.gov/public/index.cfm/rss/feed",
+                 "rss_url": "https://www.manchin.senate.gov/public/index.cfm/rss/feed",
                  "contact_form": "http://www.manchin.senate.gov/public/index.cfm/contact-form",
                  "domain": "www.manchin.senate.gov",
                  "in_office": "true",
@@ -2716,7 +2716,7 @@
                  "ideal_point": "",
                  "seniority": "9",
                  "next_election": "2018",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:wv",
@@ -2728,7 +2728,7 @@
                  "state_rank": "senior",
                  "lis_id": "S338"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "70.27"
+                 "votes_with_party_pct": "71.53"
                },
                            {
                  "id": "N000032",
@@ -2756,7 +2756,7 @@
                  "ideal_point": "",
                  "seniority": "17",
                  "next_election": "2018",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:fl",
@@ -2768,7 +2768,7 @@
                  "state_rank": "senior",
                  "lis_id": "S282"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "95.50"
+                 "votes_with_party_pct": "91.97"
                },
                            {
                  "id": "P000449",
@@ -2788,7 +2788,7 @@
                  "crp_id": "N00003682",
                  "google_entity_id": "/m/0343xg",
                  "url": "http://www.portman.senate.gov",
-                 "rss_url": "http://www.portman.senate.gov/public/index.cfm/rss/feed",
+                 "rss_url": "https://www.portman.senate.gov/public/index.cfm/rss/feed",
                  "contact_form": "https://www.portman.senate.gov/public/index.cfm/contact?p=contact-form",
                  "domain": "",
                  "in_office": "true",
@@ -2796,7 +2796,7 @@
                  "ideal_point": "",
                  "seniority": "7",
                  "next_election": "2022",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:oh",
@@ -2808,7 +2808,7 @@
                  "state_rank": "junior",
                  "lis_id": "S349"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "97.30"
+                 "votes_with_party_pct": "97.81"
                },
                            {
                  "id": "P000595",
@@ -2836,8 +2836,8 @@
                  "ideal_point": "",
                  "seniority": "3",
                  "next_election": "2020",
-                 "total_votes": "111",
-                 "missed_votes": "1",
+                 "total_votes": "137",
+                 "missed_votes": "2",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:mi",
                  "office": "724 Hart Senate Office Building",
@@ -2847,8 +2847,8 @@
                  "senate_class": "2",
                  "state_rank": "junior",
                  "lis_id": "S380"
-                 ,"missed_votes_pct": "0.90",
-                 "votes_with_party_pct": "99.09"
+                 ,"missed_votes_pct": "1.46",
+                 "votes_with_party_pct": "96.30"
                },
                            {
                  "id": "P000603",
@@ -2876,7 +2876,7 @@
                  "ideal_point": "",
                  "seniority": "7",
                  "next_election": "2022",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "4",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:ky",
@@ -2887,8 +2887,8 @@
                  "senate_class": "3",
                  "state_rank": "junior",
                  "lis_id": "S348"
-                 ,"missed_votes_pct": "3.60",
-                 "votes_with_party_pct": "89.72"
+                 ,"missed_votes_pct": "2.92",
+                 "votes_with_party_pct": "90.98"
                },
                            {
                  "id": "P000612",
@@ -2916,9 +2916,9 @@
                  "ideal_point": "",
                  "seniority": "3",
                  "next_election": "2020",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
-                 "total_present": "0",
+                 "total_present": "1",
                  "ocd_id": "ocd-division/country:us/state:ga",
                  "office": "383 Russell Senate Office Building",
                  "phone": "202-224-3521",
@@ -2928,7 +2928,7 @@
                  "state_rank": "junior",
                  "lis_id": "S379"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "99.10"
+                 "votes_with_party_pct": "98.54"
                },
                            {
                  "id": "R000122",
@@ -2956,7 +2956,7 @@
                  "ideal_point": "",
                  "seniority": "21",
                  "next_election": "2020",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:ri",
@@ -2968,7 +2968,7 @@
                  "state_rank": "senior",
                  "lis_id": "S259"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "97.30"
+                 "votes_with_party_pct": "94.89"
                },
                            {
                  "id": "R000307",
@@ -2988,7 +2988,7 @@
                  "crp_id": "N00005285",
                  "google_entity_id": "/m/01_pdv",
                  "url": "http://www.roberts.senate.gov",
-                 "rss_url": "http://www.roberts.senate.gov/public/index.cfm?a=RSS.Feed",
+                 "rss_url": "https://www.roberts.senate.gov/public/index.cfm?a=RSS.Feed",
                  "contact_form": "https://www.roberts.senate.gov/public/?p=EmailPat",
                  "domain": "",
                  "in_office": "true",
@@ -2996,7 +2996,7 @@
                  "ideal_point": "",
                  "seniority": "21",
                  "next_election": "2020",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:ks",
@@ -3008,7 +3008,7 @@
                  "state_rank": "senior",
                  "lis_id": "S260"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "99.10"
+                 "votes_with_party_pct": "99.27"
                },
                            {
                  "id": "R000584",
@@ -3028,7 +3028,7 @@
                  "crp_id": "N00029441",
                  "google_entity_id": "/m/06y9p0",
                  "url": "http://www.risch.senate.gov",
-                 "rss_url": "",
+                 "rss_url": "https://www.risch.senate.gov/public/?a=rss.feed",
                  "contact_form": "http://www.risch.senate.gov/public/index.cfm?p=Email",
                  "domain": "www.risch.senate.gov",
                  "in_office": "true",
@@ -3036,7 +3036,7 @@
                  "ideal_point": "",
                  "seniority": "9",
                  "next_election": "2020",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:id",
@@ -3048,7 +3048,7 @@
                  "state_rank": "junior",
                  "lis_id": "S323"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "99.10"
+                 "votes_with_party_pct": "98.54"
                },
                            {
                  "id": "R000595",
@@ -3068,7 +3068,7 @@
                  "crp_id": "N00030612",
                  "google_entity_id": "/m/0dpr5f",
                  "url": "http://www.rubio.senate.gov",
-                 "rss_url": "http://www.rubio.senate.gov/public/?a=rss.feed",
+                 "rss_url": "https://www.rubio.senate.gov/public/?a=rss.feed",
                  "contact_form": "http://www.rubio.senate.gov/public/index.cfm/contact",
                  "domain": "www.rubio.senate.gov/public/",
                  "in_office": "true",
@@ -3076,7 +3076,7 @@
                  "ideal_point": "",
                  "seniority": "7",
                  "next_election": "2022",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "1",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:fl",
@@ -3087,8 +3087,8 @@
                  "senate_class": "3",
                  "state_rank": "junior",
                  "lis_id": "S350"
-                 ,"missed_votes_pct": "0.90",
-                 "votes_with_party_pct": "97.27"
+                 ,"missed_votes_pct": "0.73",
+                 "votes_with_party_pct": "97.79"
                },
                            {
                  "id": "R000605",
@@ -3116,7 +3116,7 @@
                  "ideal_point": "",
                  "seniority": "3",
                  "next_election": "2020",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:sd",
@@ -3128,7 +3128,7 @@
                  "state_rank": "junior",
                  "lis_id": "S381"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "99.10"
+                 "votes_with_party_pct": "99.27"
                },
                            {
                  "id": "S000033",
@@ -3156,8 +3156,8 @@
                  "ideal_point": "",
                  "seniority": "11",
                  "next_election": "2018",
-                 "total_votes": "111",
-                 "missed_votes": "3",
+                 "total_votes": "137",
+                 "missed_votes": "5",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:vt",
                  "office": "",
@@ -3167,8 +3167,8 @@
                  "senate_class": "1",
                  "state_rank": "junior",
                  "lis_id": "S313"
-                 ,"missed_votes_pct": "2.70",
-                 "votes_with_party_pct": "91.67"
+                 ,"missed_votes_pct": "3.65",
+                 "votes_with_party_pct": "87.88"
                },
                            {
                  "id": "S000148",
@@ -3196,7 +3196,7 @@
                  "ideal_point": "",
                  "seniority": "19",
                  "next_election": "2022",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:ny",
@@ -3208,7 +3208,7 @@
                  "state_rank": "senior",
                  "lis_id": "S270"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "96.40"
+                 "votes_with_party_pct": "93.43"
                },
                            {
                  "id": "S000320",
@@ -3228,7 +3228,7 @@
                  "crp_id": "N00009920",
                  "google_entity_id": "/m/020yj1",
                  "url": "http://www.shelby.senate.gov",
-                 "rss_url": "",
+                 "rss_url": "https://www.shelby.senate.gov/public/?a=rss.feed",
                  "contact_form": "https://www.shelby.senate.gov/public/index.cfm/emailsenatorshelby",
                  "domain": "www.shelby.senate.gov",
                  "in_office": "true",
@@ -3236,8 +3236,8 @@
                  "ideal_point": "",
                  "seniority": "31",
                  "next_election": "2022",
-                 "total_votes": "111",
-                 "missed_votes": "0",
+                 "total_votes": "137",
+                 "missed_votes": "1",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:al",
                  "office": "304 Russell Senate Office Building",
@@ -3247,8 +3247,8 @@
                  "senate_class": "3",
                  "state_rank": "senior",
                  "lis_id": "S184"
-                 ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "99.10"
+                 ,"missed_votes_pct": "0.73",
+                 "votes_with_party_pct": "99.26"
                },
                            {
                  "id": "S000770",
@@ -3276,7 +3276,7 @@
                  "ideal_point": "",
                  "seniority": "17",
                  "next_election": "2018",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:mi",
@@ -3288,7 +3288,7 @@
                  "state_rank": "senior",
                  "lis_id": "S284"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "98.20"
+                 "votes_with_party_pct": "97.08"
                },
                            {
                  "id": "S001141",
@@ -3356,7 +3356,7 @@
                  "ideal_point": "",
                  "seniority": "9",
                  "next_election": "2020",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:nh",
@@ -3368,7 +3368,7 @@
                  "state_rank": "senior",
                  "lis_id": "S324"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "97.30"
+                 "votes_with_party_pct": "96.35"
                },
                            {
                  "id": "S001184",
@@ -3396,7 +3396,7 @@
                  "ideal_point": "",
                  "seniority": "5",
                  "next_election": "2022",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:sc",
@@ -3408,7 +3408,7 @@
                  "state_rank": "junior",
                  "lis_id": "S365"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "99.10"
+                 "votes_with_party_pct": "98.54"
                },
                            {
                  "id": "S001194",
@@ -3428,7 +3428,7 @@
                  "crp_id": "N00028138",
                  "google_entity_id": "/m/0dd109",
                  "url": "http://www.schatz.senate.gov",
-                 "rss_url": "http://www.schatz.senate.gov/rss/feeds/?press",
+                 "rss_url": "https://www.schatz.senate.gov/rss/feeds/?press",
                  "contact_form": "https://www.schatz.senate.gov/contact",
                  "domain": "",
                  "in_office": "true",
@@ -3436,8 +3436,8 @@
                  "ideal_point": "",
                  "seniority": "5",
                  "next_election": "2022",
-                 "total_votes": "111",
-                 "missed_votes": "1",
+                 "total_votes": "137",
+                 "missed_votes": "2",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:hi",
                  "office": "722 Hart Senate Office Building",
@@ -3447,8 +3447,8 @@
                  "senate_class": "3",
                  "state_rank": "senior",
                  "lis_id": "S353"
-                 ,"missed_votes_pct": "0.90",
-                 "votes_with_party_pct": "96.36"
+                 ,"missed_votes_pct": "1.46",
+                 "votes_with_party_pct": "95.56"
                },
                            {
                  "id": "S001197",
@@ -3476,8 +3476,8 @@
                  "ideal_point": "",
                  "seniority": "3",
                  "next_election": "2020",
-                 "total_votes": "111",
-                 "missed_votes": "1",
+                 "total_votes": "137",
+                 "missed_votes": "3",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:ne",
                  "office": "136 Russell Senate Office Building",
@@ -3487,8 +3487,8 @@
                  "senate_class": "2",
                  "state_rank": "junior",
                  "lis_id": "S382"
-                 ,"missed_votes_pct": "0.90",
-                 "votes_with_party_pct": "98.18"
+                 ,"missed_votes_pct": "2.19",
+                 "votes_with_party_pct": "97.01"
                },
                            {
                  "id": "S001198",
@@ -3516,8 +3516,8 @@
                  "ideal_point": "",
                  "seniority": "3",
                  "next_election": "2020",
-                 "total_votes": "111",
-                 "missed_votes": "1",
+                 "total_votes": "137",
+                 "missed_votes": "3",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:ak",
                  "office": "702 Hart Senate Office Building",
@@ -3527,7 +3527,7 @@
                  "senate_class": "2",
                  "state_rank": "junior",
                  "lis_id": "S383"
-                 ,"missed_votes_pct": "0.90",
+                 ,"missed_votes_pct": "2.19",
                  "votes_with_party_pct": "100.00"
                },
                            {
@@ -3538,8 +3538,8 @@
                  "last_name": "Strange",
                  "party": "R",
                  "leadership_role": "",
-                 "twitter_account": "",
-                 "facebook_account": "",
+                 "twitter_account": "SenatorStrange",
+                 "facebook_account": "SenatorLutherStrange",
                  "youtube_account": "",
                  "govtrack_id": "412734",
                  "cspan_id": "9278255",
@@ -3547,28 +3547,28 @@
                  "icpsr_id": "",
                  "crp_id": "",
                  "google_entity_id": "/m/06w5pjw",
-                 "url": "",
+                 "url": "https://www.strange.senate.gov/",
                  "rss_url": "",
-                 "contact_form": "",
-                 "domain": "",
+                 "contact_form": "https://www.strange.senate.gov/content/contact-senator",
+                 "domain": "www.strange.senate.gov",
                  "in_office": "true",
                  "dw_nominate": "",
                  "ideal_point": "",
                  "seniority": "1",
                  "next_election": "2020",
-                 "total_votes": "51",
+                 "total_votes": "77",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:al",
-                 "office": "G-12 Dirksen Senate Office Building",
-                 "phone": "",
-                 "fax": "",
+                 "office": "326 Russell Senate Office Building",
+                 "phone": "202-224-4124",
+                 "fax": "202-224-3149",
                  "state": "AL",
                  "senate_class": "2",
                  "state_rank": "junior",
                  "lis_id": "S392"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "100.00"
+                 "votes_with_party_pct": "98.70"
                },
                            {
                  "id": "T000250",
@@ -3596,7 +3596,7 @@
                  "ideal_point": "",
                  "seniority": "13",
                  "next_election": "2022",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:sd",
@@ -3608,7 +3608,7 @@
                  "state_rank": "senior",
                  "lis_id": "S303"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "99.10"
+                 "votes_with_party_pct": "99.27"
                },
                            {
                  "id": "T000461",
@@ -3636,8 +3636,8 @@
                  "ideal_point": "",
                  "seniority": "7",
                  "next_election": "2022",
-                 "total_votes": "111",
-                 "missed_votes": "2",
+                 "total_votes": "137",
+                 "missed_votes": "4",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:pa",
                  "office": "248 Russell Senate Office Building",
@@ -3647,8 +3647,8 @@
                  "senate_class": "3",
                  "state_rank": "junior",
                  "lis_id": "S351"
-                 ,"missed_votes_pct": "1.80",
-                 "votes_with_party_pct": "98.17"
+                 ,"missed_votes_pct": "2.92",
+                 "votes_with_party_pct": "97.74"
                },
                            {
                  "id": "T000464",
@@ -3676,7 +3676,7 @@
                  "ideal_point": "",
                  "seniority": "11",
                  "next_election": "2018",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:mt",
@@ -3688,7 +3688,7 @@
                  "state_rank": "senior",
                  "lis_id": "S314"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "89.19"
+                 "votes_with_party_pct": "88.32"
                },
                            {
                  "id": "T000476",
@@ -3708,7 +3708,7 @@
                  "crp_id": "N00035492",
                  "google_entity_id": "/m/0fq0395",
                  "url": "https://www.tillis.senate.gov/public/index.cfm/home",
-                 "rss_url": "",
+                 "rss_url": "https://www.tillis.senate.gov/public/?a=rss.feed",
                  "contact_form": "https://www.tillis.senate.gov/public/index.cfm/email-me",
                  "domain": "www.tillis.senate.gov",
                  "in_office": "true",
@@ -3716,8 +3716,8 @@
                  "ideal_point": "",
                  "seniority": "3",
                  "next_election": "2020",
-                 "total_votes": "111",
-                 "missed_votes": "5",
+                 "total_votes": "137",
+                 "missed_votes": "6",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:nc",
                  "office": "185 Dirksen Senate Office Building",
@@ -3727,7 +3727,7 @@
                  "senate_class": "2",
                  "state_rank": "junior",
                  "lis_id": "S384"
-                 ,"missed_votes_pct": "4.50",
+                 ,"missed_votes_pct": "4.38",
                  "votes_with_party_pct": "100.00"
                },
                            {
@@ -3748,16 +3748,16 @@
                  "crp_id": "N00006561",
                  "google_entity_id": "/m/033t35",
                  "url": "http://www.tomudall.senate.gov",
-                 "rss_url": "http://www.tomudall.senate.gov/rss/",
+                 "rss_url": "",
                  "contact_form": "https://www.tomudall.senate.gov/?p=contact",
-                 "domain": "",
+                 "domain": "www.tomudall.senate.gov",
                  "in_office": "true",
                  "dw_nominate": "",
                  "ideal_point": "",
                  "seniority": "10",
                  "next_election": "2020",
-                 "total_votes": "111",
-                 "missed_votes": "1",
+                 "total_votes": "137",
+                 "missed_votes": "2",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:nm",
                  "office": "531 Hart Senate Office Building",
@@ -3767,8 +3767,8 @@
                  "senate_class": "2",
                  "state_rank": "senior",
                  "lis_id": "S326"
-                 ,"missed_votes_pct": "0.90",
-                 "votes_with_party_pct": "90.00"
+                 ,"missed_votes_pct": "1.46",
+                 "votes_with_party_pct": "91.11"
                },
                            {
                  "id": "V000128",
@@ -3796,7 +3796,7 @@
                  "ideal_point": "",
                  "seniority": "1",
                  "next_election": "2022",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:md",
@@ -3808,7 +3808,7 @@
                  "state_rank": "junior",
                  "lis_id": "S390"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "96.40"
+                 "votes_with_party_pct": "96.35"
                },
                            {
                  "id": "W000437",
@@ -3828,7 +3828,7 @@
                  "crp_id": "N00003280",
                  "google_entity_id": "/m/025xxb",
                  "url": "https://www.wicker.senate.gov",
-                 "rss_url": "",
+                 "rss_url": "https://www.wicker.senate.gov/public/?a=rss.feed",
                  "contact_form": "https://www.wicker.senate.gov/public/index.cfm/contact",
                  "domain": "www.wicker.senate.gov",
                  "in_office": "true",
@@ -3836,7 +3836,7 @@
                  "ideal_point": "",
                  "seniority": "11",
                  "next_election": "2018",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:ms",
@@ -3848,7 +3848,7 @@
                  "state_rank": "junior",
                  "lis_id": "S318"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "97.30"
+                 "votes_with_party_pct": "97.81"
                },
                            {
                  "id": "W000779",
@@ -3876,7 +3876,7 @@
                  "ideal_point": "",
                  "seniority": "22",
                  "next_election": "2022",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "1",
                  "ocd_id": "ocd-division/country:us/state:or",
@@ -3888,7 +3888,7 @@
                  "state_rank": "senior",
                  "lis_id": "S247"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "91.89"
+                 "votes_with_party_pct": "91.97"
                },
                            {
                  "id": "W000802",
@@ -3916,7 +3916,7 @@
                  "ideal_point": "",
                  "seniority": "11",
                  "next_election": "2018",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:ri",
@@ -3928,7 +3928,7 @@
                  "state_rank": "junior",
                  "lis_id": "S316"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "98.20"
+                 "votes_with_party_pct": "95.62"
                },
                            {
                  "id": "W000805",
@@ -3948,7 +3948,7 @@
                  "crp_id": "N00002097",
                  "google_entity_id": "/m/024mm1",
                  "url": "http://www.warner.senate.gov",
-                 "rss_url": "http://www.warner.senate.gov/public/?a=RSS.TaggedFeed&amp;Type=PressReleases",
+                 "rss_url": "https://www.warner.senate.gov/public/?a=RSS.Feed",
                  "contact_form": "http://www.warner.senate.gov/public/index.cfm?p=Contact",
                  "domain": "www.warner.senate.gov/public/",
                  "in_office": "true",
@@ -3956,7 +3956,7 @@
                  "ideal_point": "",
                  "seniority": "9",
                  "next_election": "2020",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "3",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:va",
@@ -3967,8 +3967,8 @@
                  "senate_class": "2",
                  "state_rank": "senior",
                  "lis_id": "S327"
-                 ,"missed_votes_pct": "2.70",
-                 "votes_with_party_pct": "87.96"
+                 ,"missed_votes_pct": "2.19",
+                 "votes_with_party_pct": "85.82"
                },
                            {
                  "id": "W000817",
@@ -3996,7 +3996,7 @@
                  "ideal_point": "",
                  "seniority": "5",
                  "next_election": "2018",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:ma",
@@ -4008,7 +4008,7 @@
                  "state_rank": "senior",
                  "lis_id": "S366"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "91.89"
+                 "votes_with_party_pct": "86.13"
                },
                            {
                  "id": "Y000064",
@@ -4036,7 +4036,7 @@
                  "ideal_point": "",
                  "seniority": "1",
                  "next_election": "2022",
-                 "total_votes": "111",
+                 "total_votes": "137",
                  "missed_votes": "0",
                  "total_present": "0",
                  "ocd_id": "ocd-division/country:us/state:in",
@@ -4048,7 +4048,7 @@
                  "state_rank": "junior",
                  "lis_id": "S391"
                  ,"missed_votes_pct": "0.00",
-                 "votes_with_party_pct": "100.00"
+                 "votes_with_party_pct": "98.54"
                }
              ]
       }
