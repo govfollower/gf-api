@@ -18,7 +18,7 @@ module CensusGeocoders
       fmtResponse = JSON.parse response.body
       first_result = fmtResponse['result']['addressMatches'][0]
       state = first_result['addressComponents']['state']
-      cd = first_result['geographies']['115th Congressional Districts']['CD115']
+      cd = first_result['geographies']['115th Congressional Districts'][0]['CD115']
       RepFinders::ByStateDistrict.new(state, cd).perform
     end
 

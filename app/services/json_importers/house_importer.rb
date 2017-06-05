@@ -19,7 +19,11 @@ module JsonImporters
             first_name: rep['first_name'],
             middle_name: rep['middle_name'],
             last_name: rep['last_name'],
-            party: rep['party']
+            party: rep['party'],
+            phone: rep['phone'],
+            twitter_account: rep['twitter_account'],
+            facebook_account: rep['facebook_account'],
+            propublica_id: rep['id']
           )
         end
       end

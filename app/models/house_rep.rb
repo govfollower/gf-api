@@ -8,7 +8,7 @@ class HouseRep < ActiveRecord::Base
       last_name: last_name,
       gender: gender,
       party: party,
-      elected_date: elected_date,
+      elected_date: first_elected_date,
       phone: phone,
       website_url: website_url,
       facebook_account: facebook_account,

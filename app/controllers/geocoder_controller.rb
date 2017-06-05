@@ -1,3 +1,5 @@
+require 'uri'
+
 class GeocoderController < ApplicationController
 
   def new
@@ -29,9 +31,9 @@ class GeocoderController < ApplicationController
 
   def geocode_address
     address = {
-      street: params[:street],
-      city: params[:city],
-      state: params[:state]
+      street: URI.encode(params[:street]),
+      city: URI.encode(params[:city]),
+      state: URI.encode(params[:state])
     }
     CensusGeocoders::AddressGeocoder.new(address).perform
   end
