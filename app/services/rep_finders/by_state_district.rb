@@ -13,9 +13,15 @@ module RepFinders
       house_rep = @district.house_rep.as_representative 
       senate_reps = SenateRep.where(state_id: @state.id).map { |rep| rep.as_representative }
       reps = {
-        senate: senate_reps,
-        house: house_rep
-      } 
+        district: {
+          state_name: @state.state_name,
+          state_abbr: @state.state_abbr,
+          district_number: @district.district_number
+        },
+        house: house_rep,
+        senate: senate_reps
+      }
+      return reps
     end
 
   end

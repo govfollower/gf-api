@@ -2,34 +2,29 @@ require 'uri'
 
 module Api
   module V1
-    class GeocoderController < ApiController
+    class RepsController < ApiController
 
-      def new
-        if is_address?
+      def address
+        if address_valid?
           reps = geocode_address
-        elsif is_coordinates?
-          reps = geocode_coordinates
         else
           reps = false
         end
 
         if reps
-          puts reps
           render json: reps, status: 200
         else 
-          puts 'no reps'
           render status 422
         end
-
       end
 
       private
 
-      def is_address?
+      def address_valid?
          params[:street].present? && params[:city].present? && params[:state].present?
       end
 
-      def is_coordinates?
+      def coordinates_valid?
          params[:x].present? && params[:y].present?
       end
 

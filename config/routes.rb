@@ -62,7 +62,7 @@ Rails.application.routes.draw do
       namespace :v1 do
         resources :zipcodes
         resources :districts
-        post '/geocoder', to: :new, controller: 'geocoder'
+        post '/reps/address', action: :address, controller: 'reps'
       end
     end
   end
