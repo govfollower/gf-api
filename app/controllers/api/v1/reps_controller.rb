@@ -5,16 +5,20 @@ module Api
     class RepsController < ApiController
 
       def address
-        if address_valid?
-          reps = geocode_address
-        else
-          reps = false
-        end
-
-        if reps
+        reps = geocode_address if address_valid?
+        if reps.present?
           render json: reps, status: 200
-        else 
-          render status 422
+        else
+          head 422
+        end
+      end
+
+      def coordinates
+        reps = geocode_coordinates if coordinates_valid?
+        if reps.present?
+          render json: reps, status: 200
+        else
+          head 422
         end
       end
 
@@ -25,7 +29,7 @@ module Api
       end
 
       def coordinates_valid?
-         params[:x].present? && params[:y].present?
+         params[:lat].present? && params[:long].present?
       end
 
       def geocode_address
@@ -35,6 +39,10 @@ module Api
           state: URI.encode(params[:state])
         }
         return CensusGeocoders::AddressGeocoder.new(address).perform
+      end
+
+      def geocode_coordinates
+        return CensusGeocoders::CoordinatesGeocoder.new(params[:lat], params[:long]).perform
       end
 
     end

@@ -6,7 +6,7 @@ module CensusGeocoders
   class AddressGeocoder
 
     def initialize (address)
-      @url = URI.parse("https://geocoding.geo.census.gov/geocoder/geographies/address?street=#{address[:street]}&city=#{address[:city]}&state=#{address[:state]}&benchmark=Public_AR_Current&vintage=Current_Current&layers=54&format=json&key=#{ENV['CENSUS_BUREAU_API_KEY']}")
+      @url = URI.parse("https://geocoding.geo.census.gov/geocoder/geographies/address?street=#{address[:street]}&city=#{address[:city]}&state=#{address[:state]}&benchmark=Public_AR_Current&vintage=Current_Current&layers=54,84&format=json&key=#{ENV['CENSUS_BUREAU_API_KEY']}")
       @req = Net::HTTP::Get.new(@url.to_s)
     end
 
@@ -18,8 +18,9 @@ module CensusGeocoders
       fmtResponse = JSON.parse response.body
       first_result = fmtResponse['result']['addressMatches'][0]
       state = first_result['addressComponents']['state']
-      cd = first_result['geographies']['115th Congressional Districts'][0]['CD115']
-      RepFinders::ByStateDistrict.new(state, cd).perform
+      cd115 = first_result['geographies']['115th Congressional Districts'][0]['CD115']
+      district = cd115 != '00' ? cd115 : 1
+      RepFinders::ByStateDistrict.new(state, district).perform
     end
 
   end

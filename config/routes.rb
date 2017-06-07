@@ -63,6 +63,7 @@ Rails.application.routes.draw do
         resources :zipcodes
         resources :districts
         post '/reps/address', action: :address, controller: 'reps'
+        post '/reps/coordinates', action: :coordinates, controller: 'reps'
       end
     end
   end
