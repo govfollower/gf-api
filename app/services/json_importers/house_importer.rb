@@ -23,11 +23,29 @@ module JsonImporters
             phone: rep['phone'],
             twitter_account: rep['twitter_account'],
             facebook_account: rep['facebook_account'],
-            propublica_id: rep['id']
+            propublica_id: rep['id'],
+            began_office_at: began_office(rep['next_election'], rep['seniority']),
+            ended_office_at: ended_office(rep['in_office']),
+            reelection_date: reelection_year(rep['next_election'])
           )
         end
       end
       true
+    end
+
+    private
+
+    def began_office(next_election, seniority)
+      year_elected = next_election.to_i - (seniority.to_i - 1)
+      Date.new(year_elected)
+    end
+
+    def ended_office(in_office)
+      return in_office === 'true' ? nil : Date.new(2017)
+    end
+
+    def reelection_year(next_election)
+      Date.new(next_election.to_i)
     end
 
   end

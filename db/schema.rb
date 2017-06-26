@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20170330221055) do
+ActiveRecord::Schema.define(version: 20170625234242) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -31,7 +31,6 @@ ActiveRecord::Schema.define(version: 20170330221055) do
     t.string   "middle_name"
     t.string   "last_name"
     t.string   "party"
-    t.date     "first_elected_date"
     t.date     "term_start_date"
     t.date     "term_end_date"
     t.integer  "terms_served"
@@ -42,8 +41,11 @@ ActiveRecord::Schema.define(version: 20170330221055) do
     t.string   "twitter_account"
     t.string   "facebook_account"
     t.string   "propublica_id"
-    t.datetime "created_at",         null: false
-    t.datetime "updated_at",         null: false
+    t.datetime "created_at",       null: false
+    t.datetime "updated_at",       null: false
+    t.date     "began_office_at"
+    t.date     "ended_office_at"
+    t.date     "reelection_date"
   end
 
   add_index "house_reps", ["district_id"], name: "index_house_reps_on_district_id", using: :btree
@@ -54,7 +56,6 @@ ActiveRecord::Schema.define(version: 20170330221055) do
     t.string   "middle_name"
     t.string   "last_name"
     t.string   "party"
-    t.date     "first_elected_date"
     t.date     "term_start_date"
     t.date     "term_end_date"
     t.integer  "terms_served"
@@ -65,8 +66,11 @@ ActiveRecord::Schema.define(version: 20170330221055) do
     t.string   "twitter_account"
     t.string   "facebook_account"
     t.string   "propublica_id"
-    t.datetime "created_at",         null: false
-    t.datetime "updated_at",         null: false
+    t.datetime "created_at",       null: false
+    t.datetime "updated_at",       null: false
+    t.date     "began_office_at"
+    t.date     "ended_office_at"
+    t.date     "reelection_date"
   end
 
   add_index "senate_reps", ["state_id"], name: "index_senate_reps_on_state_id", using: :btree
