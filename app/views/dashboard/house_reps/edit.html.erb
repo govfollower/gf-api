@@ -1,7 +1,7 @@
 <!--<p>View for Show House Rep: typically displays a form that posts to #update action with attributes for a house rep model</p>  -->
 <div class="row">
     <div class="col-md-6 col-md-offset-3">
-        <%= form_for(:house_rep) do |f| %>
+        <%= form_for(:house_rep, url: dashboard_house_rep_path, method: :patch) do |f| %>
             
         <%= f.label :district_id %>
         <%= f.text_field :district_id %>
