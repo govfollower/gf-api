@@ -28,10 +28,17 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'spring',        group: :development
 
 # Use ActiveModel has_secure_password
-#gem 'bcrypt', '~> 3.1.7'
+gem 'bcrypt', platforms: :ruby
 
 gem 'puma'
 gem 'devise'
+
+# Use Capistrano for deployment
+# gem 'capistrano-rails', group: :development
+
+# Use debugger
+# gem 'debugger', group: [:development, :test]
+gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
 
 group :test, :development do
   gem 'dotenv-rails'
