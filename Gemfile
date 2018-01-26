@@ -32,6 +32,7 @@ gem 'bcrypt', platforms: :ruby
 
 gem 'puma'
 gem 'devise'
+gem 'devise_saml_authenticatable'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
