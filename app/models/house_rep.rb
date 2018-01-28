@@ -19,4 +19,21 @@ class HouseRep < ActiveRecord::Base
       reelection_year: reelection_date.year
     }
   end
+
+  def parse_propublica_result(res)
+    m = HouseRep.new
+    m.propublica_id = r['id']
+    m.first_name = r['first_name']
+    m.middle_name = r['middle_name']
+    m.last_name = r['last_name']
+    m.party = r['party']
+    m.dob = r['date_of_birth']
+    m.phone = r['phone']
+    m.contact_form_url = r['contact_form']
+    m.website_url = r['url']
+    m.twitter_account = r['twitter_account']
+    m.facebook_account = r['facebook_account']
+    m.in_office = r['in_office']
+    m
+  end
 end

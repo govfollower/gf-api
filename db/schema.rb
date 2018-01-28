@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20170630032402) do
+ActiveRecord::Schema.define(version: 20170330221055) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -27,50 +27,48 @@ ActiveRecord::Schema.define(version: 20170630032402) do
 
   create_table "house_reps", force: :cascade do |t|
     t.integer  "district_id"
+    t.string   "propublica_id"
     t.string   "first_name"
     t.string   "middle_name"
     t.string   "last_name"
-    t.string   "party"
-    t.date     "term_start_date"
-    t.date     "term_end_date"
-    t.integer  "terms_served"
-    t.date     "dob"
     t.string   "gender"
+    t.date     "dob"
+    t.string   "party"
+    t.boolean  "in_office"
+    t.integer  "reelection_year"
+    t.integer  "first_elected_year"
+    t.integer  "terms_served"
     t.string   "phone"
     t.string   "website_url"
+    t.string   "contact_form_url"
     t.string   "twitter_account"
     t.string   "facebook_account"
-    t.string   "propublica_id"
-    t.datetime "created_at",       null: false
-    t.datetime "updated_at",       null: false
-    t.date     "began_office_at"
-    t.date     "ended_office_at"
-    t.date     "reelection_date"
+    t.datetime "created_at",         null: false
+    t.datetime "updated_at",         null: false
   end
 
   add_index "house_reps", ["district_id"], name: "index_house_reps_on_district_id", using: :btree
 
   create_table "senate_reps", force: :cascade do |t|
     t.integer  "state_id"
+    t.string   "propublica_id"
     t.string   "first_name"
     t.string   "middle_name"
     t.string   "last_name"
-    t.string   "party"
-    t.date     "term_start_date"
-    t.date     "term_end_date"
-    t.integer  "terms_served"
-    t.date     "dob"
     t.string   "gender"
+    t.date     "dob"
+    t.string   "party"
+    t.boolean  "in_office"
+    t.integer  "reelection_year"
+    t.integer  "first_elected_year"
+    t.integer  "terms_served"
     t.string   "phone"
     t.string   "website_url"
+    t.string   "contact_form_url"
     t.string   "twitter_account"
     t.string   "facebook_account"
-    t.string   "propublica_id"
-    t.datetime "created_at",       null: false
-    t.datetime "updated_at",       null: false
-    t.date     "began_office_at"
-    t.date     "ended_office_at"
-    t.date     "reelection_date"
+    t.datetime "created_at",         null: false
+    t.datetime "updated_at",         null: false
   end
 
   add_index "senate_reps", ["state_id"], name: "index_senate_reps_on_state_id", using: :btree
@@ -81,24 +79,6 @@ ActiveRecord::Schema.define(version: 20170630032402) do
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
-
-  create_table "users", force: :cascade do |t|
-    t.string   "email",                  default: "", null: false
-    t.string   "encrypted_password",     default: "", null: false
-    t.string   "reset_password_token"
-    t.datetime "reset_password_sent_at"
-    t.datetime "remember_created_at"
-    t.integer  "sign_in_count",          default: 0,  null: false
-    t.datetime "current_sign_in_at"
-    t.datetime "last_sign_in_at"
-    t.inet     "current_sign_in_ip"
-    t.inet     "last_sign_in_ip"
-    t.datetime "created_at",                          null: false
-    t.datetime "updated_at",                          null: false
-  end
-
-  add_index "users", ["email"], name: "index_users_on_email", unique: true, using: :btree
-  add_index "users", ["reset_password_token"], name: "index_users_on_reset_password_token", unique: true, using: :btree
 
   create_table "zipcodes", force: :cascade do |t|
     t.integer  "district_id"

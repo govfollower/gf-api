@@ -2,17 +2,17 @@ require 'net/http'
 require 'json'
 
 module PropublicaApi
-  class GetHouseRep 
+  class GetHouseRepById
 
-    def initialize (house_rep)
-      @propublica_id = house_rep.propublica_id
+    def initialize (propublica_id)
+      @propublica_id = propublica_id
       return false unless @propublica_id.present?
     end
 
     def perform
       url = URI.parse("https://api.propublica.org/congress/v1/members/#{@propublica_id}.json")
       http = Net::HTTP.new(url.host, url.port)
-      http.use_ssl = true 
+      http.use_ssl = true
 
       request = Net::HTTP::Get.new(url.request_uri)
       request.add_field("X-API-Key", "#{ENV['PROPUBLICA_API_KEY']}")
