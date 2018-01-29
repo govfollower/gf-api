@@ -10,7 +10,7 @@ module RepFinders
 
     def perform
       return false unless @district
-      house_rep = @district.house_rep.as_representative 
+      house_rep = HouseRep.find_by(district_id: @district.id, in_office: true).as_representative
       senate_reps = SenateRep.where(state_id: @state.id).map { |rep| rep.as_representative }
       reps = {
         district: {

@@ -34,7 +34,8 @@ module RepUpdaters
         website_url: @rep['url'],
         twitter_account: @rep['twitter_account'],
         facebook_account: @rep['facebook_account'],
-        in_office: @rep['in_office']
+        in_office: @rep['in_office'],
+        reelection_year: @rep['next_election']
       )
     end
 
@@ -51,7 +52,8 @@ module RepUpdaters
         website_url: @rep['url'],
         twitter_account: @rep['twitter_account'],
         facebook_account: @rep['facebook_account'],
-        in_office: @rep['in_office']
+        in_office: @rep['in_office'],
+        reelection_year: @rep['next_election']
       )
     end
 
