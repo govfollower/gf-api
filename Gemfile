@@ -31,7 +31,6 @@ gem 'spring',        group: :development
 gem 'bcrypt', platforms: :ruby
 
 gem 'puma'
-gem 'devise'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
