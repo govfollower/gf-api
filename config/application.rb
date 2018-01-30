@@ -7,7 +7,7 @@ require 'rails/all'
 Bundler.require(*Rails.groups)
 
 # Load .env vars
-Dotenv::Railtie.load
+# Dotenv::Railtie.load
 
 module GovFollowerApi
   class Application < Rails::Application
